@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-inbox/pasta-puttanseca/","tags":["recipe/italian, recipe/vegetarian, recipe/main"]}
+{"john-rating":8,"danielle-rating":0,"dg-publish":true,"permalink":"/02-inbox/pasta-puttanseca/","dgPassFrontmatter":true}
 ---
 
+
+---
 
 ## Ingredients
 
