@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cooking/recipe-template/","tags":["recipe/chicken recipe/indian recipe/spicy recipe/main"]}
+{"tags":["recipe/chicken","recipe/indian","recipe/spicy","recipe/main"],"john-rating":8,"danielle-rating":7,"last-cooked":"2022-06-01","dg-publish":true,"permalink":"/cooking/recipe-template/","dgPassFrontmatter":true}
 ---
 
 # Recipe Title
