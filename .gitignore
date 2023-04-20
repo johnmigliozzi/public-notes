@@ -9,3 +9,6 @@ src/site/styles/_theme.*.css
 .idea/
 .vercel
 **/.DS_Store
+
+# JJM added
+public-notes.code-workspace

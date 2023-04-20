@@ -1,13 +1,41 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  /***
+    ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
+    IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+ ***/
+  //  background-color: white;
+  //  .content {
+  //   font-size: 14px;
+  //  }
+  //  h1 {
+  //   color: black;
+  //  }
+
+  header > h1, main > h1 {
+    font-size: 2em !important;
+    color: #7AD7F0 !important;
+  }
+
+
+  h2 {
+    font-size: 1.5em !important;
+    color: #92DFF3 !important;
+  }
+
+  h3 {
+    color: #B7E9F7 !important;
+  }
+
+  h4 {
+    color: #DBF3FA !important;
+  }
+
+  h5 {
+    color: #F5FCFF !important;
+  }
+
+  h6 {
+    color: white !important;
+  }
+
 }
