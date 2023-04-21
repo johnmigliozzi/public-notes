@@ -1,5 +1,5 @@
 ---
-{"john-rating":8,"danielle-rating":0,"dg-publish":true,"dg-pass-frontmatter":true,"permalink":"/02-inbox/pasta-puttanseca/","dgPassFrontmatter":true}
+{"johnRating":8,"danielleRating":0,"dg-publish":true,"permalink":"/02-inbox/pasta-puttanseca/","dgPassFrontmatter":true}
 ---
 
 
