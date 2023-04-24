@@ -60,6 +60,19 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.header %}
         {% include imp %}
       {% endfor %}
+
+      {%- if danielleRating > 0 or johnRating > 0 -%}
+        <div>
+          <p>Ratings:  Danielle: {{ danielleRating }}/10;  John: {{ johnRating }}/10</h3>
+          <p>Danielle's Rating
+          {% set url = ["https://progress-bar.dev/", danielleRating, "/?width=100&scale=10&suffix=/10"] | join %}
+          <img src= {{url}} alt="Danielle">
+          <p>John's Rating
+          {% set url = ["https://progress-bar.dev/", johnRating, "/?width=100&scale=10&suffix=/10"] | join %}
+          <img src= {{url}} alt="John">
+        </div>
+      {% endif %}
+
       </header>
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
