@@ -1,5 +1,5 @@
 ---
-{"tags":["recipe/chicken","recipe/thai","recipe/spicy","recipe/main"],"johnRating":10,"danielleRating":8.5,"source":"Adapted from: https://www.recipetineats.com/thai-red-curry-with-chicken/","activeTime":45,"waitTime":15,"dg-publish":true,"dg-path":"Recipes/Thai Red Curry with Chicken.md","permalink":"/recipes/thai-red-curry-with-chicken/","dgPassFrontmatter":true}
+{"type":"recipe","tags":["recipe/chicken","recipe/thai","recipe/spicy","recipe/main"],"johnRating":10,"danielleRating":9,"source":"Adapted from: https://www.recipetineats.com/thai-red-curry-with-chicken/","activeTime":45,"waitTime":15,"dg-publish":true,"dg-path":"Recipes/Thai Red Curry with Chicken.md","permalink":"/recipes/thai-red-curry-with-chicken/","dgPassFrontmatter":true}
 ---
 
 
@@ -70,5 +70,5 @@ Note: curry paste in jars has a more concentrated flavour than fresh homemade pa
 
 **8\. Nutrition** per serving, curry only.
 
-![Pasted image 20230423214443.png](/img/user/00%20Templates/Pasted%20image%2020230423214443.png)
+![Pasted image 20230423214443.png](/img/user/Danielle%20and%20John%20Shared/Recipes/Pasted%20image%2020230423214443.png)
 
