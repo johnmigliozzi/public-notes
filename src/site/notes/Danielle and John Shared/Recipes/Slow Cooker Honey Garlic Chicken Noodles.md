@@ -1,5 +1,5 @@
 ---
-{"tags":["recipe/chicken, recipe/noodles, recipe/asian"],"dg-publish":true,"dg-path":"Recipes/Slow Cooker Honey Garlic Chicken Noodles.md","permalink":"/recipes/slow-cooker-honey-garlic-chicken-noodles/","dgPassFrontmatter":true}
+{"type":"recipe","tags":["recipe/chicken","recipe/main","recipe/noodles"],"dg-publish":true,"dg-path":"Recipes/Slow Cooker Honey Garlic Chicken Noodles.md","permalink":"/recipes/slow-cooker-honey-garlic-chicken-noodles/","dgPassFrontmatter":true}
 ---
 
 
