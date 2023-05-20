@@ -1,5 +1,5 @@
 ---
-{"johnRating":8,"danielleRating":0,"dg-publish":true,"dg-path":"Recipes/Pasta Puttanseca.md","permalink":"/recipes/pasta-puttanseca/","dgPassFrontmatter":true}
+{"type":"recipe","tags":["recipe/pasta","recipe/italian","recipe/seafood"],"johnRating":8,"danielleRating":0,"dg-publish":true,"dg-path":"Recipes/Pasta Puttanseca.md","permalink":"/recipes/pasta-puttanseca/","dgPassFrontmatter":true}
 ---
 
 
