@@ -19,18 +19,20 @@
 <script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<link href="/styles/digital-garden-base.css" rel="stylesheet">
+<link href="/styles/digital-garden-base.css" rel="stylesheet" media="screen">
 {%-if meta.themeStyle%}
-    <link href="/styles/obsidian-base.css" rel="stylesheet">
-    <link href="{{meta.themeStyle}}" rel="stylesheet">
+    <link href="/styles/obsidian-base.css" rel="stylesheet" media="screen">
+    <link href="{{meta.themeStyle}}" rel="stylesheet" media="screen">
 {% else %}
-    <link href="/styles/style.css" rel="stylesheet">
+    <link href="/styles/style.css" rel="stylesheet" media="screen">
 {%endif%}
 
-<link href="/styles/custom-style.css" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet" media="screen">
 {%- for style in dynamics.styles -%}
-<link href="{{style}}" rel="stylesheet">
+<link href="{{style}}" rel="stylesheet" media="screen">
 {%- endfor -%}
+
+<link href="/styles/print-css.css" rel="stylesheet" media="print">
 
 {% favicon './src/site/favicon.svg' %}
 

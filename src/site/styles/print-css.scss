@@ -1,0 +1,32 @@
+body{
+    --subtle-text-color: gray;
+}
+
+.navbar, .filetree-sidebar, .search-container, .toc, .backlinks{
+    display: none;
+}
+
+// .filetree-sidebar{
+//     display: none;
+// }
+
+// .search-container{
+//     display: none;
+// }
+
+// .toc{
+//     display: none;
+// }
+
+// .backlinks{
+//     display: none;
+// }
+
+a.tag, .editor .cl-hashtag {
+    border: 1px solid var(--subtle-text-color);
+    border-radius: 1em;
+    font-size: .875em;
+    color: var(--subtle-text-color);
+    padding: .1em .3em;
+    line-height: 1;
+}
