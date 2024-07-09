@@ -4,14 +4,15 @@
 
 
 ## American
-| Recipe | Danielle Rating /10 | John Rating /10 | Total Time | Modified |
-| ------ | ------------------- | --------------- | ---------- | -------- |
+| Recipe                                                                                       | Danielle Rating /10 | John Rating /10 | Total Time | Modified   |
+| -------------------------------------------------------------------------------------------- | ------------------- | --------------- | ---------- | ---------- |
+| [[Danielle and John Shared/Recipes/Crustless Chicken Pot Pie\|Crustless Chicken Pot Pie]] | 8                   | 8               | 35         | 2023-12-15 |
 
 
 ## Mexican
 | Recipe                                                                                                         | Danielle Rating /10 | John Rating /10 | Total Time | Modified   |
 | -------------------------------------------------------------------------------------------------------------- | ------------------- | --------------- | ---------- | ---------- |
-| [[Danielle and John Shared/Recipes/Mexican Chicken Quinoa Salad Wraps\|Mexican Chicken Quinoa Salad Wraps]] | 9                   | 8               | 50         | 2023-05-13 |
+| [[Danielle and John Shared/Recipes/Mexican Chicken Quinoa Salad Wraps\|Mexican Chicken Quinoa Salad Wraps]] | 9                   | 8               | 50         | 2023-05-19 |
 
 
 ## Indian
@@ -29,5 +30,5 @@
 ## Thai
 | Recipe                                                                                           | Danielle Rating /10 | John Rating /10 | Total Time | Modified   |
 | ------------------------------------------------------------------------------------------------ | ------------------- | --------------- | ---------- | ---------- |
-| [[Danielle and John Shared/Recipes/Thai Red Curry with Chicken\|Thai Red Curry with Chicken]] | 9                   | 10              | 60         | 2023-04-29 |
+| [[Danielle and John Shared/Recipes/Thai Red Curry with Chicken\|Thai Red Curry with Chicken]] | 9                   | 10              | 60         | 2023-12-15 |
 
