@@ -1,0 +1,40 @@
+<div class="jm-frontmatter">
+    <table>
+    {%- if danielleRating > 0 -%}
+        <tr><td>Danielle's Rating:</td>
+            <td>
+                {%- for i in range(1,danielleRating+1) -%}
+                    🔵
+                {%- endfor %}
+                {%- for i in range(danielleRating,10) -%}
+                    ⚪️
+                {%- endfor %}
+                &nbsp;{{danielleRating}}/10
+            </td></tr>
+    {%- endif %}
+    {%- if johnRating > 0 -%}
+        <tr><td>John's Rating:</td>
+            <td>
+                {%- for i in range(1,johnRating+1) -%}
+                    🔵
+                {%- endfor %}
+                {%- for i in range(johnRating,10) -%}
+                    ⚪️
+                {%- endfor %}
+                &nbsp;{{johnRating}}/10
+            </td></tr>
+    {%- endif %}
+    {%- if source %}
+        <tr><td>Source:</td><td>{{ source | replace( r/(https?:\/\/[^ ]+)/ , "<a href=\"$1\">$1</a>" ) | safe }}</td></tr>
+    {% endif %}
+    {%- if activeTime %}
+        <tr><td>Active Time:</td><td>{{ activeTime }} min</td></tr>
+    {% endif %}
+    {%- if waitTime %}
+        <tr><td>Wait Time:</td><td>{{ waitTime }} min</td></tr>
+    {% endif %}
+    {%- if servings %}
+        <tr><td>Servings:</td><td>{{ servings }}</td></tr>
+    {% endif %}
+    </table>
+</div>

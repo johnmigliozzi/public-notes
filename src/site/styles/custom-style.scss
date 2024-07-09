@@ -39,3 +39,23 @@ body {
   }
 
 }
+
+.jm-frontmatter {
+  margin-top: 1em;
+  background-color: var(--background-secondary);
+  border-style: solid;
+  border-color: var(--background-modifier-border);
+}
+
+.jm-frontmatter table{
+  width: 100%;
+  margin: 0; 
+}
+
+.jm-frontmatter td{
+  padding-left: .5em !important;
+}
+
+.jm-frontmatter td:nth-child(1) {  
+  width: 160px !important;
+}
